@@ -1,6 +1,6 @@
 # Blockchain-Resources
 
-A list of opininated links to resources useful to blockchain and bitcoin developers.
+
 
 ---
 
